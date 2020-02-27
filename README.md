@@ -1,2 +1,2 @@
 # rosterwiz.github.io
-Leave and Roster sit for aircrew
+Leave and Roster site for aircrew
